@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
+    <img src="../assets/logo.png">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+  <!--  <h2>Essential Links</h2>
     <ul>
       <li>
         <a
@@ -44,7 +45,7 @@
           Docs for This Template
         </a>
       </li>
-    </ul>
+    </ul>-->
     <h2>Ecosystem</h2>
     <ul>
       <li>
@@ -77,6 +78,15 @@
           target="_blank"
         >
           awesome-vue
+        </a>
+      </li>
+    </ul>
+    <h2>Login</h2>
+    <ul>
+      <li>
+        <a
+          href="/#/login">
+          Login
         </a>
       </li>
     </ul>
