@@ -1,6 +1,7 @@
 $default: #fff; // default colors for layout
-$body-bg: #F3F3F3; // default bg color
-$theme: #0c6395;
+$body-bg: #f7f7f7; // default bg color
+$theme: #92a8d1;
+$label-theme: #56688a;
 $nav-bg: #0c6395;
 $tab-bg: #daf5ef;
 $theme-bg: #2b2f3e;
@@ -32,7 +33,7 @@ $bootstrap-panel-header-bg: transparent;
 $bootstrap-panel-header-border: 1px solid $border-light;
 $bootstrap-panel-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
 
-$active-link: #285eb8;
+$active-link: #56688a;
 $hover-link: darken($active-link, 20%);
 
 $fa-font-path: '~font-awesome/fonts';
